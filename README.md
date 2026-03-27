@@ -1,10 +1,26 @@
 # 📰 NewsBox – Your AI-Powered News Companion
 
 **NewsBox** is a modern AI-powered news application built with **React Native** and **Expo**. Stay informed with real-time headlines, explore news by category, and engage with an intelligent news assistant powered by **Google Gemini AI**.
+<div align="center">
+  <h1>NewsBox</h1>
+  <p><strong>Stay Updated. Stay Ahead.</strong></p>
+  <p>A modern, fast, and personalized news application delivering real-time updates across categories worldwide.</p>
 
-![News App Banner](assets/images/newsboxlogo1.png)
+  <p align="center">
+    <a href="https://github.com/abhinav28birajdar/News_Box">
+      <img src="https://img.shields.io/badge/View_Main_Branch-3178C6?style=for-the-badge&logo=github&logoColor=white" alt="Main Branch" />
+    </a>
+    <a href="https://firebase.google.com/">
+      <img src="https://img.shields.io/badge/Backend_Powered_by-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    </a>
+  </p>
+</div>
 
----
+<br />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/98ba1aae-c6bc-4834-8de1-23d2cd4577c7" alt="News App Banner" width="100%" />
+</p>
 
 
 
